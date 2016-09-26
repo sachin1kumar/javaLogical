@@ -2,7 +2,7 @@ package Java_Codes;
 
 import java.util.LinkedHashMap;
 
-public class Solution {
+public class FirstNonRepeatingChar {
 
 	public static String s = "GeeksforGeeks";
 
